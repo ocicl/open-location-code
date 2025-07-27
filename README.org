@@ -4,6 +4,6 @@ An Open Location Code library for Common Lisp.
 
 |---------+----------------------------------------------------------------|
 | source  | git:https://github.com/ralph-schleicher/open-location-code.git |
-| commit  | d63051c                                                        |
+| commit  | 0cba0c4                                                        |
 | systems | open-location-code                                             |
 |---------+----------------------------------------------------------------|
